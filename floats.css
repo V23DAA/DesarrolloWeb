@@ -1,0 +1,34 @@
+.container{
+    background: orange;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.cabezote{
+    background: red;
+    height: 80px;
+
+}
+
+.encerradp{
+
+}
+
+.contenido{
+    background: beige;
+    width: 70%;
+    float: left;
+}
+
+.menu{
+    background: brown;
+    width: 30%;
+    float: left;
+}
+
+.footer{
+    background: gold;
+    clear: both;
+}
+
+
